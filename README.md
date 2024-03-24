@@ -26,7 +26,8 @@ PART-2 is for the Knowledge Embeddings used PyKeen pipeline to achieve RotatE, T
 5. [KGCreation_wiki_extraction_1_1b.ipynb](https://colab.research.google.com/drive/1VBBiy-PaIGbSpFZbGmsKiJutipZjgPXh?usp=sharing)
 
 ## PART-2 See the repo folders
-Contact me for the other half of code. 
+Go to other repo name as [Knowledge-graph-part2](https://github.com/ShahzebFarruk/Knowledge-graph-part2) which has the notebook for part-2, use .
+In part-2 we try to pipe our part 1 output to word embeddings. 
 
 ### Who do I talk to? ###
 ### Details ###
